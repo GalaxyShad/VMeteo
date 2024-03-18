@@ -1,7 +1,11 @@
-VMeteo
-======
+<div align="center">
+  <p align="center">
+   <h1 align="center" style="color:red;">VMeteo</h1>
+    <img src="https://github.com/GalaxyShad/VMeteo/assets/52833080/6ea070b7-01d6-4042-8819-ef9094263eb2" /><br/>
+   Простая метеостанция на Arduino Nano 3.0 с внешним и внутренним датчиками температуры, часами и светодиодной подсветкой.
+  </p>
+</div>
 
-Простая метеостанция на Arduino Nano 3.0 с внешним и внутренним датчиками температуры, часами и светодиодной подсветкой.
 
 Компоненты
 -----------
